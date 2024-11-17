@@ -1,0 +1,23 @@
+{
+  "name": "45package-json",
+  "version": "1.0.0",
+  "description": "this is the get to know of package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasim0786/backend.git"
+  },
+  "author": "Qasim Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qasim0786/backend/issues"
+  },
+  "homepage": "https://github.com/qasim0786/backend#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
