@@ -1,0 +1,19 @@
+{
+  "name": "conenct",
+  "version": "1.0.0",
+  "description": "this will contain the lectures I have created over the weekends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasim0786/backend.git"
+  },
+  "author": "qasim Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qasim0786/backend/issues"
+  },
+  "homepage": "https://github.com/qasim0786/backend#readme"
+}
