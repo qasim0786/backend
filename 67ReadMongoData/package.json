@@ -1,0 +1,15 @@
+{
+  "name": "67readmongodata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qasim Malik",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
